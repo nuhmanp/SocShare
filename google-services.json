@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "794063376245",
+    "firebase_url": "https://socshare-6a83e.firebaseio.com",
+    "project_id": "socshare-6a83e",
+    "storage_bucket": "socshare-6a83e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794063376245:android:f522fe43d21b8ec1",
+        "android_client_info": {
+          "package_name": "com.SocShare.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794063376245-t5oft8o7ucs7j1835tbk1d887gh1dipp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAXC45yRrok3Foxup857HjYXcols7Lec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
